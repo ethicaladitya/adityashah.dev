@@ -1,6 +1,8 @@
-# Aditya Shah - Personal Portfolio Website
+# Aditya Shah Portfolio
 
-A modern, dynamic, and fast personal portfolio website built with pure HTML, CSS, and JavaScript. No backend required!
+Personal website and portfolio. Built with HTML, CSS, and JavaScript.
+
+For feedback or collaboration, reach out at hi@adityashah.dev.
 
 ## 🚀 Features
 
